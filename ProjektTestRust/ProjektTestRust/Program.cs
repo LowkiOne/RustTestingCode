@@ -11,3 +11,13 @@
     public string BuildingNames { get; set;}
 
 }
+
+public class DamageNumbers
+{
+
+}
+
+public class HealthOnAll
+{
+
+}

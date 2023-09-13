@@ -14,10 +14,17 @@
 
 public class DamageNumbers
 {
+    public double RangedWeaponDamgage { get; set; }
+    public double MeleeWeaponDamage { get; set; }  
+    public double ExplosiveDamage { get; set; }
 
 }
 
 public class HealthOnAll
 {
+    public double BaseBuildingHealth { get; set; }
+    public double PlayerHealth { get; set; }
+    public double VehicleHealh { get; set; }
+    public double PlaceableItemsHealth { get; set; }
 
 }
